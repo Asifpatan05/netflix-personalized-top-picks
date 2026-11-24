@@ -1,0 +1,10 @@
+# secrets: never commit the W&B key
+.env
+.env.*
+
+# local / generated
+__pycache__/
+*.pyc
+wandb/
+.venv/
+venv/
