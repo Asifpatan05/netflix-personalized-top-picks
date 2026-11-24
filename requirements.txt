@@ -1,0 +1,5 @@
+torch
+numpy
+pandas
+scikit-learn
+wandb  # optional; only used if WANDB_API_KEY is set
